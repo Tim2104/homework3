@@ -1,0 +1,14 @@
+{
+    "mail": {
+        "subject": "тестовое письмо от пользователя",
+        "smtp": {
+            "host": "smtp.mail.ru",
+            "port": 465,
+            "secure": true,
+            "auth": {
+                "user": "rostov-r89@mail.ru",
+                "pass": ""
+            }
+        }
+    }
+}
